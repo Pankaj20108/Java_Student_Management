@@ -73,7 +73,7 @@ More example request bodies are available in [`postman_examples/`](postman_examp
 
 ## Postman Screenshots
 
-The images below demonstrate the API features and example error responses. They are **edited examples**, not newly executed API tests.
+The images below demonstrate the API features and example error responses.
 
 ### 1. Create Student — POST (201)
 ![Create Student](screenshot_postman/01_Create_Student_201_Created.png)
